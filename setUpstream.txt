@@ -1,0 +1,5 @@
+On the main branch of this repository I have set an upstream branch which allows for the omittence of origin 
+main when using git push.
+
+On this branch I do not have the upstream branch set by default. Any attempt to omit origin 
+pushUpstream(current branch) will result in a fatal error.
